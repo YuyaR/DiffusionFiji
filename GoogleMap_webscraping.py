@@ -58,7 +58,7 @@ while True:
     
     time.sleep(1)
     
-    class_name = "ELEMENT'S CLASS"      
+    class_name = 'rLwmCGCu6mP__title'      
     #find this by right-clicking the browser to inspect the source code, and then 
     #specifically right click on wanted information to 'inspect', which should 
     #show a block of code containing 'class = xxxx'
