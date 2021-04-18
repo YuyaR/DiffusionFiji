@@ -29,9 +29,9 @@ Spyder 4.0.1 in Anaconda 1.9.12
 ## Dependencies
 Google Maps API key (https://cloud.google.com/maps-platform/maps) \
 requests (https://pypi.org/project/requests/) \
-Chrome_driver.exe (https://chromedriver.chromium.org/downloads)\
-selenium (https://www.selenium.dev/selenium/docs/api/py/api.html)\
-pandas (https://pandas.pydata.org/)\
-numpy (https://numpy.org/)\
+Chrome_driver.exe (https://chromedriver.chromium.org/downloads) \
+selenium (https://www.selenium.dev/selenium/docs/api/py/api.html) \
+pandas (https://pandas.pydata.org/) \
+numpy (https://numpy.org/)
 
 
